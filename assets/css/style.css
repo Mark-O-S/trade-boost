@@ -84,9 +84,9 @@ nav ul .active {
     line-height: 30px;
 }
 
-/* What is TA section */
+/* Main section */
 
-.trading-img {
+.ta-chart {
     height: fit-content;
     width: 100%;
 }
@@ -94,4 +94,34 @@ nav ul .active {
 .candle-chart {
     height: fit-content;
     width: 100%;
+}
+
+.trade-chart {
+    height: fit-content;
+    width: 100%;
+}
+
+.main-sec {
+    margin: 20px;
+    text-align: center;
+}
+
+.main-sec h2, h4 {
+    padding: 20px;
+}
+
+/* TA video */
+.ta-video-container {
+    height: 0;
+    width: 100%;
+    padding-bottom: 50%;
+    position: relative;
+}
+
+.ta-video-container iframe {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
 }
