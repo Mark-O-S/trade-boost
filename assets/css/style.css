@@ -14,7 +14,7 @@ body {
 
 /* Navigation bar */
 header {
-    background-color:#ff2400;
+    background-color: #ff2400;
     width: 100%;
     height: 100px;
 }
@@ -24,7 +24,7 @@ header .logo-text {
     margin: 0 auto;
     padding: 20px 0;
     font-size: 30px;
-    color:#00FA9A;
+    color: #00FA9A;
     font-weight: 600px;
     text-align: center;
 }
@@ -42,16 +42,16 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color:#000000;
+    color: #000000;
     font-size: 20px;
 }
 
 header nav ul li a:hover {
-    color:#00FA9A;
+    color: #00FA9A;
 }
 
 nav ul .active {
-    color:#00FA9A;
+    color: #00FA9A;
 }
 
 /* Hero image */
