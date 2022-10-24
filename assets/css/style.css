@@ -13,6 +13,7 @@ body {
 }
 
 /* Navigation bar */
+
 header {
     background-color: #ff2400;
     width: 100%;
@@ -108,11 +109,13 @@ nav ul .active {
     text-align: center;
 }
 
-.main-sec h2, h4 {
+.main-sec h2,
+h4 {
     padding: 20px;
 }
 
 /* TA video */
+
 .ta-video-container {
     height: 0;
     width: 100%;
@@ -127,6 +130,14 @@ nav ul .active {
     top: 0;
     left: 0;
 }
+
+#important {
+    padding: 5px;
+    border: #ff2400 5px dotted;
+    font-style: italic;
+    text-decoration: underline;
+}
+
 
 /* Footer content */
 
@@ -176,11 +187,13 @@ footer {
     color: #ff2400;
 }
 
-/* Media Queries*/
+/* Media Queries */
 
 /* For larger screens 950px and above */
+
 @media screen and (min-width: 950px) {
-    
+
+    /* Nav */
     header .logo-text {
         padding: 30px 10px 20px 80px;
         float: left;
@@ -188,22 +201,59 @@ footer {
         font-size: 40px;
         letter-spacing: 4px;
     }
-    
+
     header nav ul {
         padding: 30px 60px 20px 0px;
         float: right;
         line-height: 40px;
     }
-    
+
     header nav ul li {
         display: inline-block;
         list-style: none;
         padding: 0 10px;
     }
-    
+
     header nav ul li a {
         font-size: 20px;
         letter-spacing: 2px;
+    }
+
+}
+
+/* For larger screens 600px and above */ 
+
+@media screen and (min-width: 600px) {
+
+    .main-sec {
+        border: #000000 5px dotted;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .ta-chart {
+        height: 30%;
+        padding: 10px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+    .trade-chart, .candlestick-media {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        padding: 10px;
+    }
+
+    #trade-style {
+        display: flex-box;
+        justify-content: center;
+        align-items: center;
+        padding: 0 40%;
+        border: none;
     }
 
 }
