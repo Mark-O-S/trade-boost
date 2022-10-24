@@ -47,10 +47,12 @@ header nav ul li a {
 
 header nav ul li a:hover {
     color: #00FA9A;
+    border: #00FA9A 2px solid;
 }
 
 nav ul .active {
     color: #00FA9A;
+    border: #00FA9A 2px solid;
 }
 
 /* Hero image */
@@ -172,4 +174,36 @@ footer {
 
 .social-links a:hover i {
     color: #ff2400;
+}
+
+/* Media Queries*/
+
+/* For larger screens 950px and above */
+@media screen and (min-width: 950px) {
+    
+    header .logo-text {
+        padding: 30px 10px 20px 80px;
+        float: left;
+        line-height: 40px;
+        font-size: 40px;
+        letter-spacing: 4px;
+    }
+    
+    header nav ul {
+        padding: 30px 60px 20px 0px;
+        float: right;
+        line-height: 40px;
+    }
+    
+    header nav ul li {
+        display: inline-block;
+        list-style: none;
+        padding: 0 10px;
+    }
+    
+    header nav ul li a {
+        font-size: 20px;
+        letter-spacing: 2px;
+    }
+
 }
