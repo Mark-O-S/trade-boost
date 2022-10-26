@@ -142,6 +142,10 @@ nav ul .active {
     background-color: #00FA9A;
     border-radius: 50%;
 } 
+
+#chart-pattern:hover {
+    color: #ff2400;
+}
 /* Footer content */
 
 footer {
