@@ -134,7 +134,14 @@ nav ul .active {
     text-decoration: underline;
 }
 
-
+#chart-pattern {
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+    color: #000000;
+    background-color: #00FA9A;
+    border-radius: 50%;
+} 
 /* Footer content */
 
 footer {
