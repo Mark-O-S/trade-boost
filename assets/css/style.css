@@ -208,14 +208,12 @@ footer {
     justify-content: center;
 }
 
-#profile-1,
-#profile-2 {
+#profile-1, #profile-2 {
     background: #00ff9d;
     text-align: center;
 }
 
-.box1,
-.box2 {
+.box1, .box2 {
     height: 50%;
     width: 50%;
     margin: 10px;
@@ -226,6 +224,10 @@ footer {
     height: 50%;
     width: 50%;
 }
+
+/* Sign up page */
+
+
 
 /* Media Queries */
 
@@ -258,6 +260,8 @@ footer {
         font-size: 20px;
         letter-spacing: 2px;
     }
+ 
+    /* Main Page*/  
 
     .ta-chart {
         height: 100%;
@@ -276,6 +280,7 @@ footer {
 
 @media screen and (min-width: 700px) {
 
+    /* Main Page */
     .main-sec {
         padding: 20px;
         text-align: center;
