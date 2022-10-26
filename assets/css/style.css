@@ -94,11 +94,6 @@ nav ul .active {
     width: 100%;
 }
 
-.candle-chart {
-    height: fit-content;
-    width: 100%;
-}
-
 .trade-chart {
     height: fit-content;
     width: 100%;
@@ -109,8 +104,7 @@ nav ul .active {
     text-align: center;
 }
 
-.main-sec h2,
-h4 {
+.main-sec h2, h4 {
     padding: 20px;
 }
 
@@ -132,9 +126,11 @@ h4 {
 }
 
 #important {
+    margin: 10px;
     padding: 5px;
-    border: #ff2400 5px dotted;
     font-style: italic;
+    text-align: center;
+    vertical-align: middle;
     text-decoration: underline;
 }
 
@@ -142,9 +138,11 @@ h4 {
 /* Footer content */
 
 footer {
+    
     padding-top: 20px;
     height: auto;
     width: 100vw;
+    background: #ff2400;
 }
 
 .footer-content {
@@ -153,6 +151,7 @@ footer {
     align-items: center;
     justify-content: center;
     text-align: center;
+
 }
 
 .footer-content p {
@@ -184,7 +183,8 @@ footer {
 }
 
 .social-links a:hover i {
-    color: #ff2400;
+    color: #00FA9A;
+    border: #00FA9A 2px solid;
 }
 
 /* Media Queries */
@@ -219,6 +219,21 @@ footer {
         letter-spacing: 2px;
     }
 
+    .ta-chart {
+        height: 100%;
+        width: 100%;
+    }
+
+    #trade-style {
+        display: flex-box;
+        justify-content: center;
+        align-items: center;
+        padding: 0 20%;
+        border: none;
+    }
+
+
+
 }
 
 /* For larger screens 600px and above */ 
@@ -226,7 +241,6 @@ footer {
 @media screen and (min-width: 600px) {
 
     .main-sec {
-        border: #000000 5px dotted;
         padding: 20px;
         text-align: center;
     }
@@ -248,12 +262,5 @@ footer {
         padding: 10px;
     }
 
-    #trade-style {
-        display: flex-box;
-        justify-content: center;
-        align-items: center;
-        padding: 0 40%;
-        border: none;
-    }
-
+    
 }
