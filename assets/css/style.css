@@ -151,10 +151,8 @@ h4 {
 /* Footer content */
 
 footer {
-    position: relative;
     padding-top: 20px;
-    margin-top: -130px;
-    height: 130px;
+    height: auto;
     width: 100vw;
     background: #ff2400;
 }
