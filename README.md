@@ -4,10 +4,17 @@ The goal of Trade Boost is to teach about trading in the financial markets. It a
 
 ![ami.responsive image](assets/images/ami-responsive.jpg)
 
-## Business Goals
+### Business Goals
  - Provide value by creating a platform in which users and viewers can visit and learn how to trade.
  - Increase web traffic, garner attention and thus generate more members in Trade Boost.
  - Provide an easily navigatable interactive experience to any and all users of the website.
  - Provide an easy, sign up process with no payments necessary from the start. Value-first approach.
  - Increase awareness and teach anyone about the difference between investing or trading and that anyone can do it.
+
+ ### User Goals
+- To gain a better understanding about technical analyis and explore different styles of trading.
+- To use the website as a point of reference about charts or information they may need about trading.
+- To explore what values and benefits that Trade Boost provides before signing up.
+
+
 
