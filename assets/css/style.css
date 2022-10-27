@@ -157,6 +157,14 @@ footer {
     background: #ff2400;
 }
 
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background: #ff2400;
+}
+
 .footer-content {
     display: flex;
     flex-direction: column;
