@@ -238,7 +238,7 @@ footer {
     background-color: rgb(225, 20, 5, .5);
     color: #fff;
     height: 450px;
-    width: 400px;
+    width: 350px;
     margin: auto;
     border-radius: 3px;
 }
@@ -334,12 +334,13 @@ margin-top: -15px;
     border-radius: 10px;
 }
 
-.login-box input[type="button"] {
+.login-box input[type="submit"] {
     width: 100px;
     height: 35px;
     margin-top: 20px;
     font-size: 18px;
     background-color: #00FA9A;
+    cursor: pointer;
 }
 
 .login-p {
@@ -440,4 +441,34 @@ margin-top: -15px;
         flex-wrap: wrap;
     }
 
+    /* Sign up page */
+
+    .signup-box {
+        background-color: rgb(225, 20, 5, .5);
+        color: #fff;
+        height: 450px;
+        width: 280px;
+        margin: auto;
+        border-radius: 3px;
+    }
+
+    .signup-box form {
+        width: 260px;
+        margin: 10px;
+    }
+
+    /* Login page */
+
+    .login-box {
+        background-color: rgb(225, 20, 5, .5);
+        color: #fff;
+        height: 280px;
+        width: 280px;
+        margin: auto;
+        border-radius: 3px;
+    }
+    .login-box form {
+        width: 260px;
+        margin: 10px;
+    }
 }
