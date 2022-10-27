@@ -38,18 +38,18 @@
     <section class="signup-image">
         <div class="signup-box">
             <h1>Sign Up to Trade Boost</h1>
-            <form action="">
-                <label for="">First Name</label>
-                <input type="text" placeholder=" ">
-                <label for="">Last Name</label>
-                <input type="text" placeholder=" ">
-                <label for="">Email</label>
-                <input type="email" placeholder=" ">
-                <label for="">Password</label>
-                <input type="password" placeholder=" ">
-                <label for="">Confirm Password</label>
-                <input type="password" placeholder=" ">
-                <input type="button" value="Join">
+            <p id="sign-p">Please enter your name and email address and we will get back in touch with you regarding the sign-up process.</p>
+            <form method="post" action="https://codeinstitute.net/">
+                <label for="fname">First Name</label>
+                <input id="fname" type="text" placeholder="Enter your first name" name="first_name" required>
+                
+                <label for="lname">Last Name</label>
+                <input id="lname" type="text" placeholder="Enter your last name" name="last_name" required>
+                
+                <label for="email">Email</label>
+                <input id="email" type="email" placeholder="Enter your email address" name="email_address" required>
+                
+                <input type="submit" value="Join">
             </form>
         </div>
         <div class="signin-box">

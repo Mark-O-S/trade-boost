@@ -237,7 +237,7 @@ footer {
 .signup-box {
     background-color: rgb(225, 20, 5, .5);
     color: #fff;
-    height: 500px;
+    height: 450px;
     width: 400px;
     margin: auto;
     border-radius: 3px;
@@ -246,6 +246,11 @@ footer {
 .signup-box h1 {
     text-align: center;
     padding-top: 15px;
+}
+
+#sign-p {
+    text-align: center;
+    padding: 20px;
 }
 
 .signup-box form {
@@ -267,12 +272,13 @@ footer {
     border-radius: 10px;
 }
 
-.signup-box input[type="button"] {
+.signup-box input[type="submit"] {
     width: 100px;
     height: 35px;
     margin-top: 20px;
     font-size: 18px;
     background-color: #00FA9A;
+    cursor: pointer;
 }
 
 .signin-box {
