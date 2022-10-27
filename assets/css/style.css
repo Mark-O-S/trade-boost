@@ -209,7 +209,7 @@ footer {
 }
 
 #profile-1, #profile-2 {
-    background: #00ff9d;
+    background: #00FA9A;
     text-align: center;
 }
 
@@ -226,6 +226,72 @@ footer {
 }
 
 /* Sign up page */
+
+.signup-image {
+    height: calc(100vh - 100px);
+    width: 100%;
+    background: url(../images/hero-img.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.signup-box {
+    background-color: rgb(225, 20, 5, .5);
+    color: #fff;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    border-radius: 3px;
+}
+
+.signup-box h1 {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.signup-box form {
+    width: 300px;
+    margin: 20px;
+}
+
+.signup-box form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.signup-box form input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.signup-box input[type="button"] {
+    width: 100px;
+    height: 35px;
+    margin-top: 20px;
+    font-size: 18px;
+    background-color: #00FA9A;
+}
+
+.login-box {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 18px;
+}
+
+.login-p {
+text-align: center;
+color: #fff;
+font-size: 18px;
+margin-top: -15px;
+}
+
+.login-p a {
+    color: #00FA9A;
+    border: #00FA9A 2px solid;
+}
 
 
 
