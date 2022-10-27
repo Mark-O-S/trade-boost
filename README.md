@@ -1,3 +1,3 @@
 # Trade Boost - Project 1
 
-<img src="assets/images/ami-responsive.jpg">
+![ami.responsive image](assets/images/ami-responsive.jpg)
