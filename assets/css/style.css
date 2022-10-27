@@ -275,24 +275,78 @@ footer {
     background-color: #00FA9A;
 }
 
-.login-box {
+.signin-box {
     text-align: center;
     padding-top: 20px;
     font-size: 18px;
 }
 
-.login-p {
+.signup-p {
 text-align: center;
 color: #fff;
 font-size: 18px;
 margin-top: -15px;
 }
 
-.login-p a {
+.signup-p a {
     color: #00FA9A;
     border: #00FA9A 2px solid;
 }
 
+/* Login Page */
+
+.login-box {
+    background-color: rgb(225, 20, 5, .5);
+    color: #fff;
+    height: 280px;
+    width: 400px;
+    margin: auto;
+    border-radius: 3px;
+}
+
+.login-box h1 {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.login-box form {
+    width: 300px;
+    margin: 20px;
+}
+
+.login-box form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.login-box form input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.login-box input[type="button"] {
+    width: 100px;
+    height: 35px;
+    margin-top: 20px;
+    font-size: 18px;
+    background-color: #00FA9A;
+}
+
+.login-p {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 10px;
+    }
+
+.login-p a {
+    color: #00FA9A;
+    border: #00FA9A 2px solid;
+}
 
 
 /* Media Queries */
