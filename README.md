@@ -201,9 +201,12 @@ was the cause, resulting in directing users to the bottom of the page.
 I have concluded that each of the tests taken above passed. This means that each button and link that are inside of the website are functioning correctly as intended.
 
 ## HTML5 Validator
-- Homepage = No errors or warnings to show, however on certain lines it says the following: "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values."
+- **Homepage** = No errors or warnings to show, however on certain lines it says the following: "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values."
  See [Results](https://validator.w3.org/nu/#textarea)
- - Adjusting Homepage - To remove the sign saying "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values", I removed the slash after open ended tags. See [Result](https://validator.w3.org/nu/#textarea) after second testing.
+ - **Adjusting Homepage** - To remove the sign saying "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values", I removed the slash after open ended tags. See [Result](https://validator.w3.org/nu/#textarea) after second testing.
+ - **About Page** - No errors or warnings to show, however on certain lines it says the following: "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values." [Results](https://validator.w3.org/nu/#textarea)
+ - **Adjusting Homepage** - To remove the sign saying "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values", I removed the slash after open ended tags. See [Result](https://validator.w3.org/nu/#textarea) after second testing.
+ 
 
 
 
