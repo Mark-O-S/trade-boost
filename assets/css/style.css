@@ -24,9 +24,9 @@ header .logo-text {
     display: block;
     margin: 0 auto;
     padding: 20px 0;
-    font-size: 30px;
     color: #ffffff;
     text-align: center;
+    font-size: 2rem;
 }
 
 header nav ul {
@@ -38,7 +38,7 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     list-style: none;
-    padding: 0 10px;
+    padding: 0 5px;
 }
 
 header nav ul li a {
@@ -203,8 +203,9 @@ footer {
 }
 
 .social-links a i {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     color: #ffffff;
+    letter-spacing: 5px;
 }
 
 .social-links a:hover i {
@@ -221,20 +222,18 @@ footer {
 }
 
 #profile-1, #profile-2 {
-    background: #00FA9A;
     text-align: center;
 }
 
 .box1, .box2 {
-    height: 50%;
-    width: 50%;
+    width: 100%;
     margin: 10px;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .about img {
-    height: 50%;
-    width: 50%;
+    width: 80%;
+    object-fit: cover;
 }
 
 /* Sign up page */
