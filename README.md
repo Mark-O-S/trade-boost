@@ -231,8 +231,22 @@ The following tests were carried out using the [HTML Validator website](https://
 
 ## Performance Testing
 For this I used the Lighthouse Web dev tool that is in Google Chrome and below are the results which I am satisfied with.
- 
+
 <img src="assets/images/website-performance.jpg">
+
+## Known Bugs
+To my knowledge, there are currently no bugs present in the website.
+
+## Issues and Fixes during development
+- In the Home Page, I had an issue with centering the Hero text that is inside of the hero image. To fix this, I used a display of a table to the hero image and used a display of a table cell
+to the hero text. I then used, text-align center and vertical align to the middle.
+- In the Sign Up page, I had an issue in bringing the form to the centre of the page. This was fixed by setting margin to auto on ".signup-box"
+
+## Future Improvements or Enhancements
+While developing this project, I thought of different methods that I could use to improve this website or include it into future projects:
+- The use of a **Hamburger** menu, this could be used for smaller screen sizes such as a mobile device.
+- I could also include a **Back to the Top** button for when users are at the bottom of the page.
+- Using **flexbox** or the use of **grids** for the structure of the page. Although I did use flex, I believe that making use of flexbox and grids could cut development time as throughout this project, I positioned elements using floats, percentages and widths. I believe that the use of flexbox and/or grids could benefit me in the future, depending on the type of project I create.
 
 
 
