@@ -119,7 +119,6 @@ h4 {
 /* TA video */
 
 .ta-video-container {
-    height: 0;
     width: 100%;
     padding-bottom: 50%;
     position: relative;
@@ -129,8 +128,6 @@ h4 {
     position: absolute;
     height: 100%;
     width: 100%;
-    top: 0;
-    left: 0;
 }
 
 #important {
@@ -435,20 +432,13 @@ margin-top: -15px;
     /* Home page */
 
     .ta-chart {
-        padding: 10px;
         width: 75%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
     }
 
-    .trade-chart {
-        padding: 10px;
+    .trade-chart, .candlestick-media {
         width: 75%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
     }
+    
 
     /* About page */
 
