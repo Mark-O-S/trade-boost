@@ -62,26 +62,26 @@ There are **3 common structures** which is presented throughout the whole websit
 
 **The first is the Navigation Bar** which is at the top of the page, this has the option to click and take the user to other pages of the website. 
 
-Both the **Nav and Footer section** has the ability to change color and light up when hovered over. 
+Only the Nav bar changes color when you are on a certain page. 
 
-Only the Nav bar changes color when you are on a certain page. For example, if you are in the home page, the **Home** section changes to a different color. This allows the user to have an idea and know that they are in the home page.
+For example: if you are in the home page, the **Home** section changes to a different color. This allows the user to have an idea and know that they are in the home page.
 
-###### Navigation Bar for Big screen sizes 950px and above
+#### Navigation Bar for Big screen sizes 950px and above
 
 <img src="assets/images/nav-bar-big.jpg">
 
-###### Navigation Bar for Smaller screen sizes 950px and below
+#### Navigation Bar for Smaller screen sizes 950px and below
 
 <img src="assets/images/nav-bar-small.jpg">
 
 
 **The second is the Footer Section**, this is the second common structure and it contains the website name as well as social media links that users can click and go to.
 
-###### Footer Section
+#### Footer Section
 
 <img src="assets/images/footer.jpg">
 
-###### Footer Section with cursor hovered over a social media link
+#### Footer Section with cursor hovered over a social media link
 
 <img src="assets/images/footer-hover.jpg">
 
