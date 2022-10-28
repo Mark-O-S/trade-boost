@@ -171,14 +171,19 @@ footer {
     align-items: center;
     justify-content: center;
     text-align: center;
+}
 
+.footer-content h3 {
+    font-size: 2rem;
+    color: #ffffff;
 }
 
 .footer-content p {
     max-width: 300px;
     margin: 10px auto;
     line-height: 20px;
-    font-size: 16px;
+    font-size: 1.5rem;
+    color: #ffffff;
 }
 
 .social-links {
@@ -195,16 +200,17 @@ footer {
 
 .social-links a {
     text-decoration: none;
+
 }
 
 .social-links a i {
-    font-size: 150%;
-    color: #000000;
+    font-size: 1.5rem;
+    color: #ffffff;
 }
 
 .social-links a:hover i {
-    color: #00FA9A;
-    border: #00FA9A 2px solid;
+    color: #ffffff;
+    opacity: .8;
 }
 
 /* About Us Page */
