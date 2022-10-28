@@ -54,6 +54,16 @@ I used [Balsamiq](https://balsamiq.com/wireframes/) to create the wireframes of 
 
 <img src="assets/images/login.page.jpg">
 
+# Features
+
+### Common Features
+
+There are **2 common structures** which is presented throughout the whole website and the first is the navigation bar which is at the top of the page, this has the option to click and take the user to other pages of the website. 
+
+
+
+The second is the footer section, this is the second common structure and it contains the website name as well as social media links that users can click and go to.
+
 
 
 
