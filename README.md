@@ -229,6 +229,11 @@ The following tests were carried out using the [HTML Validator website](https://
     </a>
 </p>
 
+## Performance Testing
+For this I used the Lighthouse Web dev tool that is in Google Chrome and below are the results which I am satisfied with.
+ 
+<img src="assets/images/website-performance.jpg">
+
 
 
 
