@@ -38,17 +38,17 @@ The goal of Trade Boost is to teach about trading in the financial markets. It a
 
 I used [Balsamiq](https://balsamiq.com/wireframes/) to create the wireframes of the website and this was used as a guideline towards building the finished project. Attached below are the wireframes that were used as a guideline for this project.
 
-###### Main Page
+### Main Page
 
 <img src="assets/images/main-page1.jpg">
 
 <img src="assets/images/main-page2.jpg">
 
-###### About Page
+### About Page
 
 <img src="assets/images/about.page.jpg">
 
-###### Sign up & Login Page
+### Sign up & Login Page
 
 <img src="assets/images/signup.page.jpg">
 
@@ -56,7 +56,7 @@ I used [Balsamiq](https://balsamiq.com/wireframes/) to create the wireframes of 
 
 # Features
 
-### Common Features
+## Common Features
 
 There are **3 common structures** which is presented throughout the whole website.
 
@@ -66,18 +66,18 @@ Only the Nav bar changes color when you are on a certain page.
 
 For example: if you are in the home page, the **Home** section changes to a different color. This allows the user to have an idea and know that they are in the home page.
 
-#### Navigation Bar for Big screen sizes 950px and above
+### Navigation Bar for Big screen sizes 950px and above
 
 <img src="assets/images/nav-bar-big.jpg">
 
-#### Navigation Bar for Smaller screen sizes 950px and below
+### Navigation Bar for Smaller screen sizes 950px and below
 
 <img src="assets/images/nav-bar-small.jpg">
 
 
 **The second is the Footer Section**, this is the second common structure and it contains the website name as well as social media links that users can click and go to.
 
-#### Footer Section
+### Footer Section
 
 <img src="assets/images/footer.jpg">
 
@@ -87,6 +87,34 @@ There will be text written inside of each hero image, for example:
 - On the Home page, there will be text saying "Welcome to Trade Boost" centered with additional text underneath.
 - On the About Page, there will be text saying "About Us"
 - On the Sign Up and Login pages, the hero image will be in the background.
+
+Users can click the "Trade Boost" logo that is located at the top of the page where the navigation section is and it can also take them to the home page. 
+
+### Home Page
+
+This is the landing page of the website. It will be the first page that the user sees upon clicking the link to Trade Boost. 
+Aside from the common features of each page of the website which is mentioned above, this page consists of the following:
+- Brief information on what Technical Analysis (TA) is and what it is used for.
+- Brief information on Candlestick charts, followed by video below in which the user can either click to go to the linked website or to watch on the current website.
+- Brief information on different trading styles.
+- At bottom of the page, just above the footer section, the is a section that can direct a user to learn chart patterns. The user can access this but clicking the button that says "Click here".
+
+### About Page
+
+This is the second page. The aim of the page is to inform the users of the purpose of the website and a brief background of the creators of Trade Boost. Excluding the mentioned common features of each page, the about page consists of the following:
+- A brief information on the purpose of Trade Boost
+- Brief information of the founders of Tradeboost
+- An image of each founders and more information about them.
+
+### Sign up and Login Page
+These pages are self explanatory. Aside from the common features of each page. The Sign up page consists of:
+- A form to enter necessary user details for signing up.
+- A "Join" button that the user can click if they want to sign up.
+- If the user already has an account, there is a login button in which they can click to go to the login page. The login page consists of a form in which they must enter their email and password to gain access.
+
+
+
+
 
 
 
