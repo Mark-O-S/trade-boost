@@ -124,6 +124,61 @@ The following list are the types of technologies used in building this website:
 - **[Pexels](https://www.pexels.com/)** was used to source free copyright images which were used for the website.
 - **[TinyPNG](https://tinypng.com/)** was used to compress any image that was used for the website.
 
+# Testing
+
+## Cross-browser Test
+
+The website has been tested in the 3 main browsers that are being mainly used today and had no issues:
+- Mozilla Firefox
+- Microsoft Edge(formerly Internet Explorer)
+- Google Chrome
+
+## Compatibility Test
+
+The website has been tested using the following devices:#
+- Computer with a 27" screen - no issues, each page loaded as normal.
+- Dell laptop with a 15.5" screen - no issues, each page loaded as normal.
+- Samsung Galaxy s10+ - no issues, each page loaded as normal.
+
+## Navigation Bar Functionality 
+
+1. **Goal** - When the "Trade Boost" logo is clicked, it should take the user to the home page.
+- **Result** - When the logo was clicked, the user was redirected to the home page resulting in passing the test.
+
+2. **Goal** - When the "Home" button is clicked, it should take the user to the home page.
+- **Result** - When the home button was clicked, the user was redirected to the home page resulting in passing the test.
+
+3. **Goal** - When the "About" button is clicked, it should take the user to the about page.
+- **Result** - When the about button was clicked, the user was redirected to the about page resulting in passing the test.
+
+4. **Goal** - When the "Sign Up" button is clicked, it should take the user to the sign up page.
+- **Result** - When the sign up button was clicked, the user was redirected to the sign uppage resulting in passing the test.
+
+## Footer Section Functionality
+
+- **Goal** - Each social media icon should direct the user to the corresponding pages that it is linked with and in a new tab.
+- **Result** - When each social media icon was clicked, it directed the user to the corresponding social media page and in a new tab resulting in passing the test.
+
+## Video Section Functionality
+
+- **Goal** - On the home page of the website, the video section should allow the user to play a video either on the website itself or have the ability to go to the main source of the video. 
+When clicked, the video should play at a specific time in which the creator of the page intends it to play at.
+- **Result** - When the user clicked to play the video on the website, the video played and also at the specific time that is intended to play. 
+The user also clicked the option to go to the main source of the video in which it opened up in a new tab of the corresponding link. This resulted in a pass.
+
+## "Click Here!" Button Functionality
+
+- **Goal** - On the home page of the website, in the section that says "Click Here!". If clicked, it should take the user on a different page to a different website that provides information about chart patterns that traders should know.
+- **Result** - When the user clicked the buttion, a new tab opened up directing the user to the corresponding link. 
+However when the user arrived to the page, the link directed him to the bottom of the page. This was not intended.
+- **Cause of the Result** - [This link](https://www.ig.com/en/trading-strategies/10-chart-patterns-every-trader-needs-to-know-190514#Symmetrical_triangle)
+was the cause, resulting in directing users to the bottom of the page.
+- **Fixing the error** - It was identified that using [This link](https://www.ig.com/en/trading-strategies/10-chart-patterns-every-trader-needs-to-know-190514) will direct the users to the top page instead.
+- **Second test after implementation** - After updating the link, the user clicked on the button that says "Click Here!" and this time a new tab open directing the user to the corresponding link and at the top of the page as intended. This resulted in a pass.
+
+
+
+
 
 
 
