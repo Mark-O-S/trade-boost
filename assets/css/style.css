@@ -306,8 +306,8 @@ footer {
 .signup-p {
 text-align: center;
 color: #fff;
-font-size: 18px;
-margin-top: -15px;
+font-size: 14px;
+margin-top: -10px;
 }
 
 .signup-p a {
@@ -318,10 +318,10 @@ margin-top: -15px;
 /* Login Page */
 
 .login-box {
-    background-color: rgb(225, 20, 5, .5);
+    background-color: rgb(225, 20, 5, .7);
     color: #fff;
-    height: 280px;
-    width: 400px;
+    height: 300px;
+    width: 350px;
     margin: auto;
     border-radius: 3px;
 }
@@ -362,7 +362,7 @@ margin-top: -15px;
 .login-p {
     text-align: center;
     color: #fff;
-    font-size: 18px;
+    font-size: 14px;
     margin-top: 10px;
     }
 
@@ -459,7 +459,7 @@ margin-top: -15px;
     .signup-box {
         background-color: rgb(225, 20, 5, .7);
         color: #fff;
-        height: 440px;
+        height: 460px;
         width: 280px;
         margin: auto;
         border-radius: 3px;
@@ -488,7 +488,7 @@ margin-top: -15px;
     .login-box {
         background-color: rgb(225, 20, 5, .7);
         color: #fff;
-        height: 280px;
+        height: 300px;
         width: 280px;
         margin: auto;
         border-radius: 3px;
