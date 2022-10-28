@@ -34,6 +34,15 @@ The goal of Trade Boost is to teach about trading in the financial markets. It a
 7. As a potential member, I want to be able to have the freedom that if I join, I am able to leave and not have to pay anything in the beginning.
 8. As a member, I want to be able to visit the website and have the ability to log in, instead of signing up.
 
+## Wireframes
+
+I used [Balsamiq](https://balsamiq.com/wireframes/) to create the wireframes of the website and this was used as a guideline towards building the finished project. Attached below are the wireframes that were used as a guideline for this project.
+
+###### Main Page
+
+<img src="assets/images/main-page1.jpg">
+
+<img src="assets/images/main-page2.jpg">
 
 
 
