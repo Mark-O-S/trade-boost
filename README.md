@@ -216,8 +216,18 @@ The following tests were carried out using the [HTML Validator website](https://
  - **Adjusting Sign Up Page** - To remove the sign saying "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values", I removed the slash after open ended tags. See [Result](https://validator.w3.org/nu/#textarea) after second testing.
  
  - **Login Page** - No errors or warnings to show, however on certain lines it said the following: "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values." [Results](https://validator.w3.org/nu/#textarea)
- 
+
  - **Adjusting Login Page** - To remove the sign saying "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values", I removed the slash after open ended tags. See [Result](https://validator.w3.org/nu/#textarea) after second testing.
+
+ ## CSS3 Validator
+ - **Results** - Passed the CSS validator with no errors found.
+ <p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
 
 
