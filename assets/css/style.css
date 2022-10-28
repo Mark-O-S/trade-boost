@@ -90,13 +90,20 @@ nav ul .active {
 /* Main section */
 
 .ta-chart {
-    height: fit-content;
-    width: 75%;
+    padding: 10px;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.trade-chart {
-    height: fit-content;
-    width: 75%;
+
+.trade-chart, .candlestick-media {
+    padding: 10px;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .main-sec {
@@ -402,11 +409,6 @@ margin-top: -15px;
  
     /* Main Page*/  
 
-    .ta-chart {
-        height: 100%;
-        width: 100%;
-    }
-
     #trade-style {
         justify-content: center;
         align-items: center;
@@ -425,23 +427,6 @@ margin-top: -15px;
         text-align: center;
     }
 
-    .ta-chart {
-        height: 30%;
-        padding: 10px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-
-    .trade-chart, .candlestick-media {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-        padding: 10px;
-    }
-
 }
 
 /* For screens sizes smaller that 700px */
@@ -449,7 +434,21 @@ margin-top: -15px;
 
     /* Home page */
 
-    
+    .ta-chart {
+        padding: 10px;
+        width: 75%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .trade-chart {
+        padding: 10px;
+        width: 75%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
     /* About page */
 
