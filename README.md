@@ -58,9 +58,12 @@ I used [Balsamiq](https://balsamiq.com/wireframes/) to create the wireframes of 
 
 ### Common Features
 
-There are **2 common structures** which is presented throughout the whole website and the first is the navigation bar which is at the top of the page, this has the option to click and take the user to other pages of the website. 
+There are **3 common structures** which is presented throughout the whole website.
 
-Both the Nav and Footer section has the ability to change color and light up when hovered over. 
+**The first is the Navigation Bar** which is at the top of the page, this has the option to click and take the user to other pages of the website. 
+
+Both the **Nav and Footer section** has the ability to change color and light up when hovered over. 
+
 Only the Nav bar changes color when you are on a certain page. For example, if you are in the home page, the **Home** section changes to a different color. This allows the user to have an idea and know that they are in the home page.
 
 ###### Navigation Bar for Big screen sizes 950px and above
@@ -72,7 +75,7 @@ Only the Nav bar changes color when you are on a certain page. For example, if y
 <img src="assets/images/nav-bar-small.jpg">
 
 
-The second is the footer section, this is the second common structure and it contains the website name as well as social media links that users can click and go to.
+**The second is the Footer Section**, this is the second common structure and it contains the website name as well as social media links that users can click and go to.
 
 ###### Footer Section
 
@@ -81,5 +84,13 @@ The second is the footer section, this is the second common structure and it con
 ###### Footer Section with cursor hovered over a social media link
 
 <img src="assets/images/footer-hover.jpg">
+
+**The third is the Hero Image section**, each page has the same hero image that is displayed underneath of the navigation bar. 
+
+There will be text written inside of each hero image, for example:
+- On the Home page, there will be text saying "Welcome to Trade Boost" centered with additional text underneath.
+- On the About Page, there will be text saying "About Us"
+- On the Sign Up and Login pages, the hero image will be in the background.
+
 
 
