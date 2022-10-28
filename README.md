@@ -48,6 +48,13 @@ I used [Balsamiq](https://balsamiq.com/wireframes/) to create the wireframes of 
 
 <img src="assets/about.page.jpg">
 
+###### Sign up & Login Page
+
+<img src="assets/signup.page.jpg">
+
+<img src="assets/login.page.jpg">
+
+
 
 
 
