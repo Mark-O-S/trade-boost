@@ -140,12 +140,12 @@ h4 {
     padding: 10px;
     font-size: 30px;
     color: #000000;
-    background-color: #00FA9A;
-    border-radius: 50%;
+    background-color: #ff2400;
+    border-radius: .5rem;
 }
 
 #chart-pattern:hover {
-    color: #ff2400;
+    color: #ffffff;
 }
 
 /* Footer content */
@@ -161,7 +161,6 @@ footer {
     position: sticky;
     bottom: 0;
     width: 100%;
-    height: auto;
     background: #ff2400;
 }
 
