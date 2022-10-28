@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Domine&family=Roboto+Slab&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Domine&family=Roboto+Slab&display=swap");
 
 * {
     margin: 0px;
@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: 'Domine', sans-serif;
+    font-family: "Domine", sans-serif;
 }
 
 /* Navigation bar */
@@ -82,7 +82,7 @@ nav ul .active {
 .hero-text h3 {
     text-transform: capitalize;
     font-style: italic;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 20px;
     line-height: 30px;
 }
@@ -97,8 +97,8 @@ nav ul .active {
     margin-right: auto;
 }
 
-
-.trade-chart, .candlestick-media {
+.trade-chart,
+.candlestick-media {
     padding: 10px;
     width: 40%;
     display: block;
@@ -145,7 +145,7 @@ h4 {
     font-size: 30px;
     color: #000000;
     background-color: #ff2400;
-    border-radius: .5rem;
+    border-radius: 0.5rem;
 }
 
 #chart-pattern:hover {
@@ -203,7 +203,6 @@ footer {
 
 .social-links a {
     text-decoration: none;
-
 }
 
 .social-links a i {
@@ -214,7 +213,7 @@ footer {
 
 .social-links a:hover i {
     color: #ffffff;
-    opacity: .8;
+    opacity: 0.8;
 }
 
 /* About Us Page */
@@ -225,11 +224,13 @@ footer {
     justify-content: center;
 }
 
-#profile-1, #profile-2 {
+#profile-1,
+#profile-2 {
     text-align: center;
 }
 
-.box1, .box2 {
+.box1,
+.box2 {
     width: 100%;
     margin: 10px;
     border-radius: 10px;
@@ -251,12 +252,12 @@ footer {
 }
 
 .signup-box {
-    background-color: rgb(225, 20, 5, .7);
+    background-color: rgb(225, 20, 5, 0.7);
     color: #fff;
     height: 450px;
     width: 350px;
     margin: auto;
-    border-radius: 3px;   
+    border-radius: 3px;
 }
 
 .signup-box h1 {
@@ -293,7 +294,7 @@ footer {
     height: 35px;
     margin-top: 20px;
     font-size: 18px;
-    background-color: #00FA9A;
+    background-color: #00fa9a;
     cursor: pointer;
 }
 
@@ -304,21 +305,21 @@ footer {
 }
 
 .signup-p {
-text-align: center;
-color: #fff;
-font-size: 14px;
-margin-top: -10px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    margin-top: -10px;
 }
 
 .signup-p a {
-    color: #00FA9A;
-    border: #00FA9A 2px solid;
+    color: #00fa9a;
+    border: #00fa9a 2px solid;
 }
 
 /* Login Page */
 
 .login-box {
-    background-color: rgb(225, 20, 5, .7);
+    background-color: rgb(225, 20, 5, 0.7);
     color: #fff;
     height: 300px;
     width: 350px;
@@ -355,7 +356,7 @@ margin-top: -10px;
     height: 35px;
     margin-top: 20px;
     font-size: 18px;
-    background-color: #00FA9A;
+    background-color: #00fa9a;
     cursor: pointer;
 }
 
@@ -364,20 +365,18 @@ margin-top: -10px;
     color: #fff;
     font-size: 14px;
     margin-top: 10px;
-    }
-
-.login-p a {
-    color: #00FA9A;
-    border: #00FA9A 2px solid;
 }
 
+.login-p a {
+    color: #00fa9a;
+    border: #00fa9a 2px solid;
+}
 
 /* Media Queries */
 
 /* For larger screens 950px and above */
 
 @media screen and (min-width: 950px) {
-
     /* Nav */
     header .logo-text {
         padding: 30px 10px 20px 80px;
@@ -403,8 +402,8 @@ margin-top: -10px;
         font-size: 20px;
         letter-spacing: 2px;
     }
- 
-    /* Main Page*/  
+
+    /* Main Page*/
 
     #trade-style {
         justify-content: center;
@@ -417,7 +416,6 @@ margin-top: -10px;
 /* For larger screens 700px and above */
 
 @media screen and (min-width: 700px) {
-
     /* Main Page */
     .main-sec {
         padding: 20px;
@@ -427,12 +425,10 @@ margin-top: -10px;
     .candlestick-media {
         width: 50%;
     }
-
 }
 
 /* For screens sizes smaller that 700px */
 @media screen and (max-width: 700px) {
-
     /* Home page */
 
     .ta-chart {
@@ -446,7 +442,6 @@ margin-top: -10px;
     .candlestick-media {
         width: 100%;
     }
-    
 
     /* About page */
 
@@ -457,7 +452,7 @@ margin-top: -10px;
     /* Sign up page */
 
     .signup-box {
-        background-color: rgb(225, 20, 5, .7);
+        background-color: rgb(225, 20, 5, 0.7);
         color: #fff;
         height: 460px;
         width: 280px;
@@ -481,12 +476,12 @@ margin-top: -10px;
 
     .signup-p {
         font-size: 15px;
-        }
+    }
 
     /* Login page */
 
     .login-box {
-        background-color: rgb(225, 20, 5, .7);
+        background-color: rgb(225, 20, 5, 0.7);
         color: #fff;
         height: 300px;
         width: 280px;
