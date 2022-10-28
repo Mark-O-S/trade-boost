@@ -81,10 +81,6 @@ For example: if you are in the home page, the **Home** section changes to a diff
 
 <img src="assets/images/footer.jpg">
 
-#### Footer Section with cursor hovered over a social media link
-
-<img src="assets/images/footer-hover.jpg">
-
 **The third is the Hero Image section**, this is the third common structure. Each page has the same hero image that is displayed underneath of the navigation bar. 
 
 There will be text written inside of each hero image, for example:
