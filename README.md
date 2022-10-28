@@ -85,7 +85,7 @@ Only the Nav bar changes color when you are on a certain page. For example, if y
 
 <img src="assets/images/footer-hover.jpg">
 
-**The third is the Hero Image section**, each page has the same hero image that is displayed underneath of the navigation bar. 
+**The third is the Hero Image section**, this is the third common structure. Each page has the same hero image that is displayed underneath of the navigation bar. 
 
 There will be text written inside of each hero image, for example:
 - On the Home page, there will be text saying "Welcome to Trade Boost" centered with additional text underneath.
