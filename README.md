@@ -66,22 +66,24 @@ Only the Nav bar changes color when you are on a certain page.
 
 For example: if you are in the home page, the **Home** section changes to a different color. This allows the user to have an idea and know that they are in the home page.
 
-### Navigation Bar for Big screen sizes 950px and above
+#### Navigation Bar for Big screen sizes 950px and above
 
 <img src="assets/images/nav-bar-big.jpg">
 
-### Navigation Bar for Smaller screen sizes 950px and below
+#### Navigation Bar for Smaller screen sizes 950px and below
 
 <img src="assets/images/nav-bar-small.jpg">
 
 
 **The second is the Footer Section**, this is the second common structure and it contains the website name as well as social media links that users can click and go to.
 
-### Footer Section
+#### Footer Section
 
 <img src="assets/images/footer.jpg">
 
-**The third is the Hero Image section**, this is the third common structure. Each page has the same hero image that is displayed underneath of the navigation bar. 
+### Hero Image Section
+
+**This is the third common structure**. Each page has the same hero image that is displayed underneath of the navigation bar. 
 
 There will be text written inside of each hero image, for example:
 - On the Home page, there will be text saying "Welcome to Trade Boost" centered with additional text underneath.
@@ -111,6 +113,16 @@ These pages are self explanatory. Aside from the common features of each page. T
 - A form to enter necessary user details for signing up.
 - A "Join" button that the user can click if they want to sign up.
 - If the user already has an account, there is a login button in which they can click to go to the login page. The login page consists of a form in which they must enter their email and password to gain access.
+
+# Technologies Used
+The following list are the types of technologies used in building this website:
+- **[HTML5](https://en.wikipedia.org/wiki/HTML5)** (HyperText Markup Language) was used in creating the core content of the website.
+- **[CSS3](https://en.wikipedia.org/wiki/CSS)** (Cascading Style Sheet) was used in styling the website.
+- **[Balsamiq](https://balsamiq.com/wireframes/)** was used in designing the wireframes of the website prior to the creation of each page.
+- **[Google Fonts](https://fonts.google.com/)** was used to link and source different types of fonts for the website.
+- **[Font Awesome](https://fontawesome.com/)** was used to link and source different icons for the footer section.
+- **[Pexels](https://www.pexels.com/)** was used to source free copyright images which were used for the website.
+- **[TinyPNG](https://tinypng.com/)** was used to compress any image that was used for the website.
 
 
 
