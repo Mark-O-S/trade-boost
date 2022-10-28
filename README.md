@@ -176,6 +176,29 @@ was the cause, resulting in directing users to the bottom of the page.
 - **Fixing the error** - It was identified that using [This link](https://www.ig.com/en/trading-strategies/10-chart-patterns-every-trader-needs-to-know-190514) will direct the users to the top page instead.
 - **Second test after implementation** - After updating the link, the user clicked on the button that says "Click Here!" and this time a new tab open directing the user to the corresponding link and at the top of the page as intended. This resulted in a pass.
 
+## Sign Up Page Functionality
+
+- **Goal** - The goal of this test is to make sure that sign up page does the following:
+1. It must request for the users first name. Leaving this section blank will not allow the user to sign up.
+2. It must request for the users last name. Leaving this section blank will not allow the user to sign up.
+3. It must request an email address, an "@" symbol must be included in the email address.
+4. If the first three steps are completed correctly and when the user clicks the "Join" button. The user should be directed to a web page that says "Congratulations! If you can read this, you have prepared and submitted your form correctly."
+- **Result** - When the user completed the first three steps and clicked the "Join" button. The user was directed to a new tab with the corresponding link that says "Congratulations!". This resulted in passing the test.
+
+- **Goal** - The goal of this test is to make sure the the "Login here" button on the sign up page, takes the user to the login page. 
+- **Result** - When the user clicked the "Login here" button in the Sign Up page, the user was directed to the Login page resulting in passing the test.
+
+## Login Page Functionality
+- **Goal** - There are two goals for this test:
+1. To make sure that the user must enter their email and password to log in.
+2. To make sure that the "Sign Up Here" button takes the user to the Sign Up Page.
+-**Result** 
+- When the user entered their email and password, the user was able to login.
+- When the user clicked the "Sign Up Here" button, the user was redirected to the Sign Up page. This resulted in passing both of these test.
+
+# Conclusion from Testing 
+I have concluded that each of the tests taken above passed. This means that each button and link that are inside of the website are functioning correctly as intended.
+
 
 
 
