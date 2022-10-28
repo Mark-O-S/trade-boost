@@ -163,6 +163,7 @@ The website has been tested using the following devices:#
 
 - **Goal** - On the home page of the website, the video section should allow the user to play a video either on the website itself or have the ability to go to the main source of the video. 
 When clicked, the video should play at a specific time in which the creator of the page intends it to play at.
+
 - **Result** - When the user clicked to play the video on the website, the video played and also at the specific time that is intended to play. 
 The user also clicked the option to go to the main source of the video in which it opened up in a new tab of the corresponding link. This resulted in a pass.
 
@@ -184,7 +185,6 @@ was the cause, resulting in directing users to the bottom of the page.
 3. It must request an email address, an "@" symbol must be included in the email address.
 4. If the first three steps are completed correctly and when the user clicks the "Join" button. The user should be directed to a web page that says "Congratulations! If you can read this, you have prepared and submitted your form correctly."
 - **Result** - When the user completed the first three steps and clicked the "Join" button. The user was directed to a new tab with the corresponding link that says "Congratulations!". This resulted in passing the test.
-
 - **Goal** - The goal of this test is to make sure the the "Login here" button on the sign up page, takes the user to the login page. 
 - **Result** - When the user clicked the "Login here" button in the Sign Up page, the user was directed to the Login page resulting in passing the test.
 
@@ -192,12 +192,18 @@ was the cause, resulting in directing users to the bottom of the page.
 - **Goal** - There are two goals for this test:
 1. To make sure that the user must enter their email and password to log in.
 2. To make sure that the "Sign Up Here" button takes the user to the Sign Up Page.
--**Result** 
+
+- **Result** - The following are the result of the Login Page test:
 - When the user entered their email and password, the user was able to login.
 - When the user clicked the "Sign Up Here" button, the user was redirected to the Sign Up page. This resulted in passing both of these test.
 
-# Conclusion from Testing 
+## Conclusion from Testing 
 I have concluded that each of the tests taken above passed. This means that each button and link that are inside of the website are functioning correctly as intended.
+
+## HTML5 Validator
+- Homepage = No errors or warnings to show, however on certain lines it says the following: "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values."
+ See [Results](https://validator.w3.org/nu/#textarea)
+ - Adjusting Homepage - To remove the sign saying "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values", I removed the slash after open ended tags. See [Result](https://validator.w3.org/nu/#textarea) after second testing.
 
 
 
