@@ -424,6 +424,10 @@ margin-top: -15px;
         text-align: center;
     }
 
+    .candlestick-media {
+        width: 50%;
+    }
+
 }
 
 /* For screens sizes smaller that 700px */
@@ -435,8 +439,12 @@ margin-top: -15px;
         width: 75%;
     }
 
-    .trade-chart, .candlestick-media {
+    .trade-chart {
         width: 75%;
+    }
+
+    .candlestick-media {
+        width: 100%;
     }
     
 
