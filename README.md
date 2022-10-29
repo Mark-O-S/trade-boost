@@ -268,6 +268,30 @@ Github was used to create and deploy this website. The following are the series 
 7. Once you are in that section, below the **"Source"** heading. Ensure that the option says **"Deploy from a branch"**. Below that underneath the **"Branch"** heading, click the dropdown menu and select **"main"** and **"/root"**. Click **Save**
 8. The page should then refresh and a link will be created which will lead to your live page in Github Pages. The link of my live page is **[here!](https://mark-o-s.github.io/trade-boost/index.html)**
 
+# Credits
+
+## Code
+- I used similar code that was used in the Love Running project for styling the Navigation bar in order to show a different color and to have the visual appearance of a line underneath when hovered over or when on a specific page.
+- I also used similar code from Love Running for adding the social media icons to place inside the Footer section. 
+- **[This](https://github.com/Code-Institute-Org/gitpod-full-template)** is the template that I used to start this project.
+- I wrote the remaining HTML and CSS code.
+
+## Content
+- For the video content that teaches the basics of Technical Analysis, I used the content of [Rayner Teo](https://www.youtube.com/user/tradingwithrayner), sharing [this](https://www.youtube.com/watch?v=rNI166nMAFw&t=74s) video and placing it into the Trade Boost home page.
+- I also used the content from [ig.com](https://www.ig.com/en/trading-strategies/10-chart-patterns-every-trader-needs-to-know-190514).
+
+## Media and Websites Used
+- All **images** used came from [pexels.com](https://www.pexels.com/)
+- All **icons** used came from [fontawesome.com](https://fontawesome.com/)
+- I used [TinyPNG](https://tinypng.com/) to compress media image sizes for my website.
+- I used [Google Fonts](https://fonts.google.com/) for using different fonts for my website.
+- I used [Fontawesome](https://fontawesome.com/) for using different icons for my website.
+
+
+## Acknowledgements
+- I'd like to thank my mentor, **Akshat Garg**. Although I only had 2 conversations with Akshat, the first just to get to know each other and the second was when I was nearly finished my project. He gave me useful guidance and pointers about my website.
+- Although I didn't post any questions regarding my project or how to do certain things. The **Slack** community proved to be very resourceful. On certain issues I faced, someone already had the same problem and I could see and learn from previous posts.
+
 
 
 
